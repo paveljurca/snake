@@ -1,10 +1,15 @@
 # the snake game
 
+![level #0](screenshot/a.png)
+![level #2](screenshot/c.png)
+![snake](screenshot/e.png)
+
 (c) 2013 Pavel Jurča
+
+==> 4SA333, FIS, VŠE, 2013 <==
 
 ## INTRO
 
-if you'll see the snake blinking it's not a bug just Windows.Forms can't handle it
 	* the snake game as you know it from Nokia
 
 	* 3 levels
@@ -17,8 +22,9 @@ if you'll see the snake blinking it's not a bug just Windows.Forms can't handle 
 	* navigation keys
 	* SPACE key pauses the game
 
-snake is increasing in speed just because Windows.Forms can't handle a lot of moving Control objects
-and start blinking, so you'll reach "game over" more quickly ;)
+the snake is increasing in speed just because Windows.Forms
+can't handle a lot of moving Control objects, so they'll
+start blinking, hence "game over" happens more quickly ;)
 
 
 ## TODO
